@@ -1,2 +1,7 @@
-abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()
-TESTLINETESTLINETESTLINETESTLINETESTLINETESTLINETESTLINETESTLINETESTLINE
+Commands List:
+/help: Brings up this text.
+/clear: Clears the terminal.
+/stats: Sends the server statistics.
+/disconnect: Sends a public disconnect message and closes the project.
+/load: Loads a theme from a custom .json format.
+/username: Lets you change your username.
